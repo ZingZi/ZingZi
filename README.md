@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=360&height=44&lines=Log%201%3A;The%20beginning" alt="Typing headlines" />
-</p>
-
 ### 🚀 About Me
 
 A business administration student learning CS stuff out of interest, for fun, and to create my own projects.  
